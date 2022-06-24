@@ -18,3 +18,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
 
 ## HackerRank
 - [Python (Basic)](https://www.hackerrank.com/skills-verification) [🎓](https://www.hackerrank.com/certificates/ec823d342927)
+### Specializations
+- [Python For Everybody ~ University of Michigan](https://www.coursera.org/specializations/python) [:octocat:](https://github.com/MITU16EE01/python-for-everybody)
+    - [Programming for Everybody (Getting started with Python)](https://www.coursera.org/learn/python/) [🎓](https://www.coursera.org/account/accomplishments/verify/WDHFGLUUXF29)
+    - [Python Data Structures](https://www.coursera.org/learn/python-data/) [🎓](https://www.coursera.org/account/accomplishments/verify/FYDHVYC6F86N)
