@@ -15,6 +15,8 @@ during university and also on other platforms such as Coursera, Udemy etc.
 - [Crash Course on Python](https://www.coursera.org/learn/python-crash-course/) [🎓](https://www.coursera.org/account/accomplishments/verify/3QXHE3JCZ754)
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python/) [🎓](https://www.coursera.org/account/accomplishments/verify/WDHFGLUUXF29)
 - [Python Data Structures](https://www.coursera.org/learn/python-data/) [🎓](https://www.coursera.org/account/accomplishments/verify/FYDHVYC6F86N)
+- [Introduction to Programming With MATLAB](https://www.coursera.org/learn/matlab)[:octocat:](https://github.com/MITU16EE01/Introduction-to-Programming-with-MATLAB)
+
 
 ## HackerRank
 - [Python (Basic)](https://www.hackerrank.com/skills-verification) [🎓](https://www.hackerrank.com/certificates/ec823d342927)
