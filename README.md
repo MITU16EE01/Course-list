@@ -6,10 +6,14 @@ during university and also on other platforms such as Coursera, Udemy etc.
 > Links to solution repositories are marked as :octocat: and certificate links marked as 🎓.
 
 ## Index
-- [B. Tech Electrical and Electronics Engineering @ NCE Chandi](#electrical--electronics--engineering--delhi-technological-university)
+- [M.Tech Power System Engineering @IITBBS](#IITBBS)
+- [B. Tech Electrical and Electronics Engineering @ NCE Chandi](#electrical--electronics--engineering)
 - [Coursera](#coursera)
 - [HackerRank](#hackerrank)
 
+## IITBBS
+### Courses
+- [Machine Learning and Data Analytics]
 ## Coursera
 ### Courses
 - [Crash Course on Python](https://www.coursera.org/learn/python-crash-course/) [🎓](https://www.coursera.org/account/accomplishments/verify/3QXHE3JCZ754)
