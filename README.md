@@ -13,7 +13,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
 
 ## IITBBS
 ### Courses
-- [Machine Learning and Data Analytics]
+- Machine Learning and Data Analytics
 ## Coursera
 ### Courses
 - [Crash Course on Python](https://www.coursera.org/learn/python-crash-course/) [🎓](https://www.coursera.org/account/accomplishments/verify/3QXHE3JCZ754)
